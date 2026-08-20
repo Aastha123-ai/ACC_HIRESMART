@@ -27,12 +27,6 @@ The project follows an end-to-end analytics workflow, starting from **data colle
   * Skills by HR Role
   * Interactive Slicers and Filters
  
-
-<img width="1292" height="732" alt="Screenshot 2026-08-19 231103" src="https://github.com/user-attachments/assets/fb9b53bf-0325-476d-9f6d-9d093d382d79" />
-
-   
-
-
 * Prepared a **Microsoft Word report** documenting the research methodology, sources, analysis, and findings.
 
 ## 🛠️ Tools & Technologies
