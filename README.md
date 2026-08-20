@@ -1,6 +1,4 @@
-# ACC_HIRESMART
-
-# HR Market Analysis
+# ACC_HIRESMART - HR Market Analysis
 
 ## 📌 Project Overview
 
